@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbad7c88-a3ee-42b5-8b5d-e26c489afaae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/especialista-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbreviandoOperadoresAritmetico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ApostaMegasena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AulaVariaveis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AvaliacaoAtendimento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CaixaLoja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculaPagamentoPrestador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculaTicketMedio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculadoraIdadeMedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculadoraImpostos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculadoraIndiceMassaCorporal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculadoraMediaIdade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculadoraPesosDasCargas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalcularAnoBissexto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalcularIMC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlePesoAeronave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConversaoDoubleParaFloat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConversaoDoubleParaInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConversaoIntParaLong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConversaoLongParaInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CurtoCircuitoOperadoresLogicos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EntradaDeDados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaRepeticaoFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExameCortisol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExameVitaminaD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExemploBoolean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExemploByteShort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExemploChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExemploFloatDouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExemploInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExemploLong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExemploString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FormatandoComPrintf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HorarioFuncionamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImprimeNumeroInvertido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImprimeNumeroPrimo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImprimeNumerosParesImpares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImprimirSomaDosNumerosPares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IndiceMassaCorporal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OlaMergulhador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OlaMergulhador01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OlaMergulhador02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OlaMergulhador04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OlaMergulhador05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OlaMergulhador06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OlaMergulhador07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OlaMergulhador08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OlaMergulhador09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OlaMergulhador10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Olamergulhador03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadorDecremento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadorIncremento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresAritmeticos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresComparacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresIgualdadeNegacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrecedenciaOperadoresLogicos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PromocaoAritmetica1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PromocaoAritmetica2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PromocaoAritmetica3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SequenciasEscape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimuladorEmprestimo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SomaNumerosAte100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteAnoBissexto.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/rrber/projetos/especialista-java" value="3CLrfCbiaHxz0UNSJK0WFAzYV1G" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedChatMode">
+    <option name="chatModeId" value="Agent" />
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="chat-panel" value="Auto" />
+      <entry key="agent-panel" value="Auto" />
+    </selectedModels>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3CLrfCbiaHxz0UNSJK0WFAzYV1G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AbreviandoOperadoresAritmetico.executor": "Run",
+    "Application.ApostaMegasena.executor": "Run",
+    "Application.AvaliacaoAtendimento.executor": "Run",
+    "Application.CaixaLoja.executor": "Run",
+    "Application.CalculaPagamentoPrestador.executor": "Run",
+    "Application.CalculadoraImpostos.executor": "Run",
+    "Application.CalculadoraIndiceMassaCorporal.executor": "Run",
+    "Application.CalcularAnoBissexto.executor": "Run",
+    "Application.CalcularIMC.executor": "Run",
+    "Application.ControlePesoAeronave.executor": "Run",
+    "Application.CurtoCircuitoOperadoresLogicos.executor": "Run",
+    "Application.EntradaDeDados.executor": "Run",
+    "Application.EstruturaRepeticaoFor.executor": "Run",
+    "Application.ExameCortisol.executor": "Run",
+    "Application.ExameVitaminaD.executor": "Run",
+    "Application.HorarioFuncionamento.executor": "Run",
+    "Application.ImprimeNumeroInvertido.executor": "Run",
+    "Application.ImprimeNumeroPrimo.executor": "Run",
+    "Application.ImprimeNumerosParesImpares.executor": "Run",
+    "Application.ImprimirSomaDosNumerosPares.executor": "Run",
+    "Application.IndiceMassaCorporal.executor": "Run",
+    "Application.OperadoresComparacao.executor": "Run",
+    "Application.OperadoresIgualdadeNegacao.executor": "Run",
+    "Application.PrecedenciaOperadoresLogicos.executor": "Run",
+    "Application.SimuladorEmprestimo.executor": "Run",
+    "Application.SomaNumerosAte100.executor": "Run",
+    "Application.TesteAnoBissexto.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rrber/projetos/especialista-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ImprimeNumeroInvertido" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImprimeNumeroInvertido" />
+      <module name="especialista-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImprimeNumeroPrimo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImprimeNumeroPrimo" />
+      <module name="especialista-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImprimeNumerosParesImpares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImprimeNumerosParesImpares" />
+      <module name="especialista-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImprimirSomaDosNumerosPares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImprimirSomaDosNumerosPares" />
+      <module name="especialista-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SomaNumerosAte100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SomaNumerosAte100" />
+      <module name="especialista-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ImprimeNumerosParesImpares" />
+        <item itemvalue="Application.ImprimeNumeroInvertido" />
+        <item itemvalue="Application.SomaNumerosAte100" />
+        <item itemvalue="Application.ImprimeNumeroPrimo" />
+        <item itemvalue="Application.ImprimirSomaDosNumerosPares" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbad7c88-a3ee-42b5-8b5d-e26c489afaae" name="Changes" comment="" />
+      <created>1776175795200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776175795200</updated>
+      <workItem from="1776175802958" duration="3498000" />
+      <workItem from="1776246649574" duration="970000" />
+      <workItem from="1776256231425" duration="3443000" />
+      <workItem from="1776266953448" duration="2123000" />
+      <workItem from="1776342736491" duration="29000" />
+      <workItem from="1776343083868" duration="4225000" />
+      <workItem from="1776418794978" duration="7593000" />
+      <workItem from="1776764966611" duration="337000" />
+      <workItem from="1776765342872" duration="204000" />
+      <workItem from="1776765549883" duration="36000" />
+      <workItem from="1776765596356" duration="805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
